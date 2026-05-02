@@ -45,8 +45,6 @@ Task-Manager/
 │ ├── index.html
 │ ├── css/
 │ ├── js/
-│
-├── .env
 └── README.md
 
 
