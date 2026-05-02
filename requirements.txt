@@ -1,0 +1,8 @@
+# No external dependencies required
+# Python standard library only
+
+http.server    # Built-in HTTP server (part of Python)
+sqlite3        # Built-in SQLite database (part of Python)
+json           # Built-in JSON handling (part of Python)
+datetime       # Built-in date/time handling (part of Python)
+urllib.parse   # Built-in URL parsing (part of Python)
